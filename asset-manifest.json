@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-AddToCart/static/css/main.095facae.css",
+    "main.js": "/React-AddToCart/static/js/main.c9edc59e.js",
+    "static/media/logo.svg": "/React-AddToCart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-AddToCart/index.html",
+    "main.095facae.css.map": "/React-AddToCart/static/css/main.095facae.css.map",
+    "main.c9edc59e.js.map": "/React-AddToCart/static/js/main.c9edc59e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.095facae.css",
+    "static/js/main.c9edc59e.js"
+  ]
+}
